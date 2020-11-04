@@ -1,0 +1,12 @@
+Variables : Una variable es una parte de memoria que usa la aplicacion para guardar datos que nosotros ingresemos. Por ejemplo es como tener casilleros y guardar cosas dentro
+,cada vez que guardamos algo se ocupa la memoria , y cuando lo sacamos se desocupa el casillero. 
+
+Strings : son un conjunto de caracteres o letras , por ejemplo nuestro nombre seria un string porque cuenta con varias letras unidas .
+
+Funciones: una funcion hace cosas que nosotros le indicamos , cuando nosotros queramos . Por ejemplo en un auto una funcion seria arrancar , entonces cuando nosotros 
+queramos arrancar un auto llamamos a esa funcion ( la llave) y arranca . Ademas estan los argumentos que son variables como casilleros en donde guardaremos cosas 
+y tambien una funcion  nos devuelve algo, a traves de un return , por ejemplo cuando arrancamos el auto, nos devuelve el auto arrancado.
+
+if : el if es una condicion para hacer algo ,por ejemplo si juego mucho al playstation entonces sere mejor.
+
+valores booleanos : es verdadero o falso, por ejemplo si yo pregunto tu edad que es 8 y me contestas 7 la edad es falsa, en cambio si me contestas 8 la edad es verdadera.  
