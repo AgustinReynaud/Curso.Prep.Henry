@@ -1,0 +1,8 @@
+FOR : for es una estructura de control , en donde se ingresa y hasta que no se deje de cumplir la condicion no se para de dar vueltas.
+
+&&= son anidaciones , se usan para decir que si se cumple una condicion y otra condicion , ese " y " es una anidacion , es para decir 
+que se tiene que evaluar las dos condiciones. 
+
+|| = significa " o " , y hace que se evaluen las dos condiciones, si se cumple la primera o se cumple esta entonces hacemos una accion .
+
+! = el signo de exclamacion es una negacion , entonces por ejemplo seria si un numero es != (distinto) a 5 entonces devolver un falso.
