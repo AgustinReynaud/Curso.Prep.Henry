@@ -1,0 +1,2 @@
+ARRAY : Los arrays son listas que contienen objetos , por ejemplo cuando nos dan la lista para comprar cosas en la posicion [0] esta
+el objeto 'pan' .Una caracteristica es que se empieza desde la posicion 0.
