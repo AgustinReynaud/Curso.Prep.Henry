@@ -114,7 +114,7 @@ function multiplicarArgumentos() {
   // Tu código:
   for (let i = 0; i < arguments.length; i++) {
     if ( arguments != 0){
-      const res = arguments.filter((p,c)=>p*c);
+      const res = arguments.reduce((p,c)=>p*c);
       //var multiplicacion = arguments.reduce((a, b) => a * b);
     //var multiplicacion = arguments[i]*i;
     return res;
